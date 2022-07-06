@@ -1,0 +1,22 @@
+STORAGE = {
+    "ENVIRONMENT":"",
+    "PLATFORM":"",
+    "LIBRARY":{
+        "COMMON":"",
+        "TEST":"",
+        "PREPROD":"",
+        "PROD":"",
+        },
+    "RESOURCE":{
+        "COMMON":"",
+        "TEST":"",
+        "PREPROD":"",
+        "PROD":"",
+        },
+    "VARIABLE":{
+        "COMMON":"",
+        "TEST":"",
+        "PREPROD":"",
+        "PROD":"",
+        },
+}
